@@ -1,0 +1,9 @@
+UAB NK Turtas
+Antakalnio g. 16
++37062312476
+Jiesia;kuzmos;85;blokinis;2012;30;1;
+Freda;aliejaus;44;medinis;2003;2630;25;
+Dainava;jotvingio;35;blokinis;1999;350;10;
+Rokai;jureivio;45;blokinis;1995;130;20;
+Petrasiunai;vetrunges;5;blokinis;2003;160;12;
+Dainava;jotvingio;2;blokinis;1999;218;10;

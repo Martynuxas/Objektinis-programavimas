@@ -1,0 +1,18 @@
+﻿+---------------------------------------------------------------------------------------------------+
+|                   Parduodamų namų agentūros rekvizitai ir jų parduodami namai                     |
+|---------------------------------------------------------------------------------------------------|
+| UAB Nekilnojamas Turtas                                                                           |
+| Vilniaus g. 15                                                                                    |
+| +37068723638                                                                                      |
+|---------------------------------------------------------------------------------------------------|
+| Mikrorajonas |   Gatvė   | Namo numeris |  Tipas   | Pastatymo metai | Plotas | Kambarių skaičius |
+|--------------|-----------|--------------|----------|-----------------|--------|-------------------|
+| Dainava      | sodu      |           10 | murinis  |            1999 |     95 |                10 |
+| Petrasiunai  | vetrunges |           18 | medinis  |            2004 |    180 |                 8 |
+| Silainiai    | barono    |           20 | blokinis |            2001 |    174 |                 6 |
+| Dainava      | aklasto   |            5 | medinis  |            2000 |    115 |                12 |
+| Silainiai    | alsausko  |           26 | blokinis |            2011 |    170 |                 8 |
+| Silainiai    | alsausko  |            2 | murinis  |            2003 |    180 |                 6 |
+| Silainiai    | alsausko  |           20 | blokinis |            2005 |    105 |                 8 |
+| Petrasiunai  | vetrunges |           19 | murinis  |            2003 |    160 |                12 |
++---------------------------------------------------------------------------------------------------+
